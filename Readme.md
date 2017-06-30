@@ -32,7 +32,7 @@ $ ruby lib/runner.rb
 $ rake
 ```
 
-6. If you prefer you can also run test individually
+6. If you prefer you can also run tests individually
 ```
 $ ruby test/"file_name".rb
 ```
